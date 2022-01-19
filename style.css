@@ -1,0 +1,33 @@
+h2 {
+  font-size: 20px;
+}
+.audio {
+  width: 20%;
+  height: 50px;
+}
+.video {
+  width: 20%;
+  height: 250px;
+}
+table,
+th,
+tr,
+td {
+  border: 2px solid black;
+}
+.mydiv {
+  border: 5px outset red;
+  text-align: center;
+  background-color: bisque;
+}
+.embed {
+  width: 50%;
+  height: 400px;
+}
+.fruit {
+  width: 50%;
+  height: 500px;
+}
+.boolean {
+  font-size: 30px;
+}
